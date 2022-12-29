@@ -1,8 +1,8 @@
-# Fabled Theme For Replugged
+# The Reverse Theme For Replugged
 
 ## Install
 
-1. Download [this file](https://github.com/Teltta/fabled-theme/releases/latest/download/dev.Teltta.FabledTheme.asar) and put it into your replugged themes folder.
+1. Download [this file](https://github.com/Hveodrungr/The-reverse-theme/releases/latest/download/dev.Iamjk.ReverseTheme.asar) and put it into your replugged themes folder.
     - **Windows** `%appdata%/replugged/themes`
     - **macOS** `~/Library/Application Support/replugged/themes`
     - **Linux** `~/.config/replugged/themes`

@@ -1,18 +1,18 @@
 {
-  "id": "dev.I'amjk.ReverseTheme",
-  "name": "The Reverse",
+  "id": "dev.Iamjk.ReverseTheme",
+  "name": "Reverse",
   "description": "A minimalistic(ish) theme inspired by the look of world of warcraft.",
   "author": {
-    "name": "I'amjk",
+    "name": "Iamjk",
     "discordID": "124598335230312448",
     "github": "Hveodrungr"
   },
   "version": "0.1.0",
   "updater": {
     "type": "github",
-    "id": "Teltta/fabled-theme"
+    "id": "Hveodrungr/The-reverse-theme"
   },
   "license": "MIT",
-  "type": " Hveodrungr/The-reverse-theme",
+  "type": " replugged-theme",
   "main": "src/reverse.css"
 }
