@@ -1,13 +1,13 @@
 /* Color Stuff */
 .theme-dark {
-  --background-primary: #22272e !important;
-  --background-secondary: #1d2229 !important;
+  --background-primary: #050201 !important;
+  --background-secondary: #000000 !important;
   --background-secondary-alt: #181d24 !important;
-  --background-tertiary: #13181f !important;
+  --background-tertiary: #000000 !important;
   --background-message-hover: #21252b !important;
   --background-floating: #171a1f !important;
 
-  --channeltextarea-background: #2d333b !important;
+  --channeltextarea-background: #000000 !important;
   --input-background: #10151c !important;
   --modal-background: var(--background-secondary) !important;
   --channels-default: #81a1c1 !important;
@@ -15,13 +15,14 @@
   --primary-dark-630: var(--background-secondary-alt) !important;
 
   --background-modifier-selected: #2b3d58 !important;
-  --background-modifier-hover: #202e42 !important;
+  --background-modifier-hover: #524d27 !important;
 
   --background-mentioned: #1c2e46 !important;
   --background-mentioned-hover: #1a2a3f !important;
-
+  --color-name: #a39f9c !important;
   --header-primary: #ffffff !important;
-  --header-secondary: #81a1c1 !important;
+  --header-secondary: #a39f9c !important;
+  --popup: #d06825 !important;
   --text-normal: #dcddde !important;
   --text-muted: #80848c !important;
   --text-link: #00b0f4 !important;
@@ -308,7 +309,7 @@ code {
 
 /* Unread Pills (Server & Channel) */
 .listItem-3SmSlK > .pill-2RsI5Q > .item-2LIpTv {
-  background-color: var(--header-secondary) !important;
+  background-color: var(--popup) !important;
 }
 .unreadRelevant-2f-VSK {
   background-color: var(--header-secondary) !important;
@@ -330,6 +331,9 @@ code {
 }
 .role-2TIOKu {
   border: none !important;
+}
+.overflow-1wOqNV {
+  color: var(--color-name);
 }
 
 /* Remove Invite To Server And Remove Friend Buttons From User Context Menu */

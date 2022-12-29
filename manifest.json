@@ -1,18 +1,18 @@
 {
-  "id": "dev.Teltta.FabledTheme",
-  "name": "Fabled",
-  "description": "A minimalistic(ish) theme inspired by the look of github.",
+  "id": "dev.I'amjk.ReverseTheme",
+  "name": "The Reverse",
+  "description": "A minimalistic(ish) theme inspired by the look of world of warcraft.",
   "author": {
-    "name": "Teltta",
-    "discordID": "365145249074642956",
-    "github": "Teltta"
+    "name": "I'amjk",
+    "discordID": "124598335230312448",
+    "github": "Hveodrungr"
   },
-  "version": "1.0.2",
+  "version": "0.1.0",
   "updater": {
     "type": "github",
     "id": "Teltta/fabled-theme"
   },
   "license": "MIT",
-  "type": "replugged-theme",
-  "main": "src/fabled.css"
+  "type": " Hveodrungr/The-reverse-theme",
+  "main": "src/reverse.css"
 }

@@ -1,7 +1,7 @@
 {
-  "name": "fabled-theme",
-  "version": "1.0.0",
-  "description": "A minimalistic(ish) theme inspired by the look of github.",
+  "name": "the-reverse-theme",
+  "version": "0.1",
+  "description": "A minimalistic(ish) theme inspired by the look of world of warcraft.",
   "engines": {
     "node": ">=14.0.0"
   },
@@ -14,7 +14,7 @@
     "lint:fix": "prettier ./src ./scripts --write"
   },
   "keywords": [],
-  "author": "Teltta#2064",
+  "author": "I'amjk#4831",
   "license": "MIT",
   "devDependencies": {
     "@electron/asar": "^3.2.1",
