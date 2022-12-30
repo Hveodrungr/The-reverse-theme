@@ -1,7 +1,7 @@
 {
-	"id": "dev.Iamjk.ReverseTheme",
+	"id": "dev.Iamjk.BlackPinkTheme",
 	"name": "The Reverse",
-	"description": "A minimalistic(ish) theme inspired by the look of world of warcraft.",
+	"description": "A minimalistic(ish) theme inspired by BlackPink.",
 	"author": {
 		"name": "I'amjk",
 		"discordID": "124598335230312448",
@@ -14,5 +14,5 @@
 	},
 	"license": "MIT",
 	"type": "replugged-theme",
-	"main": "src/reverse.css"
+	"main": "src/BlackPink.css"
 }

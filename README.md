@@ -9,7 +9,8 @@
 
 ## Screenshots
 
-<img src="./assets/image.png">
+<img src="./assets/image.png"
+<img src="./assets/image3.png">
 <img src="./assets/image2.png">
 
 ## Troubleshooting
