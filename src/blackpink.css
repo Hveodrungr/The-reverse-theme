@@ -3,7 +3,7 @@
   --background-primary: #050201 !important;
   --background-secondary: #000000 !important;
   --background-secondary-alt: #181d24 !important;
-  --background-tertiary: #8f6f75 !important;
+  --background-tertiary: #CF9FA7 !important;
   --background-message-hover: #21252b !important;
   --background-floating: #171a1f !important;
 
@@ -13,6 +13,7 @@
   --channels-default: #81a1c1 !important;
   --focus-primary: #00b0f4 !important;
   --primary-dark-630: var(--background-secondary-alt) !important;
+  --background-image: url(https://6.viki.io/image/03f3606ef6884db9b1aab1060924873e.jpeg);
 
   --background-modifier-selected: #2b3d58 !important;
   --background-modifier-hover: #6c0058 !important;
@@ -20,7 +21,7 @@
   --background-mentioned: #1c2e46 !important;
   --background-mentioned-hover: #1a2a3f !important;
   --color-name: #CF9FA7 !important;
-  --header-primary: #7c6165 !important;
+  --header-primary: #CF9FA7 !important;
   --header-secondary: #a39f9c !important;
   --popup: #d06825 !important;
   --text-normal: #dcddde !important;
@@ -58,6 +59,18 @@
   --text-link: #00b0f4 !important;
   --divider-color: var(--text-link) !important;
 }
+
+/* .scroller-WSmht3, .thin-31rlnD, .scrollerBase-_bVAAt, .fade-1R6FHN {
+  background: var(--background-image) center/cover no-repeat fixed;
+}
+
+.peopleColumn-1wMU14 {
+  background: var(--background-image) center/cover no-repeat fixed;
+}
+
+.scroller-hE2gWq, .thin-31rlnD, .scrollerBase-_bVAAt {
+  background: var(--background-image) center/cover no-repeat fixed;
+} */
 
 /* Channels */
 .selected-2TbFuo,
@@ -143,6 +156,7 @@
   width: 28px;
   transition: width 0.3s ease-in-out;
   border-radius: 0px;
+  background: none !important;
 }
 
 /* Hide Useless Buttons In Input Field */
@@ -341,10 +355,4 @@ code {
 }
 .labelContainer-2vJzYL[id="user-context-remove-friend"] {
   display: None;
-}
-
-
-
-.item-3mHhwr, .item-3XjbnG, .themed-2-lozF {
-  color: #CF9FA7 !important;
 }
