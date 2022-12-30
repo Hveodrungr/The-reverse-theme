@@ -3,7 +3,7 @@
   --background-primary: #050201 !important;
   --background-secondary: #000000 !important;
   --background-secondary-alt: #181d24 !important;
-  --background-tertiary: pink !important;
+  --background-tertiary: #8f6f75 !important;
   --background-message-hover: #21252b !important;
   --background-floating: #171a1f !important;
 
@@ -19,8 +19,8 @@
 
   --background-mentioned: #1c2e46 !important;
   --background-mentioned-hover: #1a2a3f !important;
-  --color-name: pink !important;
-  --header-primary: pink !important;
+  --color-name: #CF9FA7 !important;
+  --header-primary: #7c6165 !important;
   --header-secondary: #a39f9c !important;
   --popup: #d06825 !important;
   --text-normal: #dcddde !important;
@@ -346,5 +346,5 @@ code {
 
 
 .item-3mHhwr, .item-3XjbnG, .themed-2-lozF {
-  color: pink !important;
+  color: #CF9FA7 !important;
 }
