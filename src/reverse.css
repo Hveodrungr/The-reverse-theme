@@ -91,6 +91,7 @@
 /*Mac Topbar Buttons*/
 .winButton-3UMjdg > svg {
   display: none;
+  background-color: green;
 }
 .winButton-3UMjdg:hover {
   background-color: rgba(0, 0, 0, 0);
@@ -104,27 +105,20 @@
   padding: 7px;
   border-radius: 50px;
   pointer-events: fill;
+  background-color: var(--channels-default);
 }
 .winButtonClose-3Q8ZH5 {
   margin-right: 3px;
 }
 .winButtonClose-3Q8ZH5::after {
-  background-color: #ff605c;
+  background-color: #ff605c !important;
 }
 .winButtonClose-3Q8ZH5:hover::after {
   background-color: rgba(255, 96, 92, 0.5);
 }
-.winButtonMinMax-3RsPUg[aria-label="Maximize"]::after {
-  background-color: #ffbd44;
-}
-.winButtonMinMax-3RsPUg[aria-label="Maximize"]:hover::after {
-  background-color: rgba(255, 189, 68, 0.5);
-}
-.winButtonMinMax-3RsPUg[aria-label="Minimize"]::after {
-  background-color: #00ca4e;
-}
-.winButtonMinMax-3RsPUg[aria-label="Minimize"]:hover::after {
-  background-color: rgba(0, 202, 78, 0.5);
+
+.winButtonMinMax-3RsPUg:nth-child(4):after {
+  background: #524d27 !important;
 }
 
 /* Reactions */
@@ -212,6 +206,10 @@
   margin-left: 4px !important;
   margin-right: 4px !important;
   background-color: var(--input-background) !important;
+}
+
+.panels-3wFtMD {
+  background-color: var(--background-secondary) !important;
 }
 
 /* No Rounding */
