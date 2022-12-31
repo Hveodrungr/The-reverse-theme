@@ -1,5 +1,5 @@
 {
-	"id": "dev.Iamjk.BlackPinkTheme",
+	"id": "dev.Iamjk.BlackPinkPictureTheme",
 	"name": "The Reverse",
 	"description": "A minimalistic(ish) theme inspired by BlackPink.",
 	"author": {
@@ -7,7 +7,7 @@
 		"discordID": "124598335230312448",
 		"github": "Hveodrungr"
 	},
-	"version": "0.3.0",
+	"version": "0.5.0",
 	"updater": {
 		"type": "github",
 		"id": "Hveodrungr/the-reverse-theme"

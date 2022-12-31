@@ -61,15 +61,39 @@
 }
 
 /* .scroller-WSmht3, .thin-31rlnD, .scrollerBase-_bVAAt, .fade-1R6FHN {
-  background: var(--background-image) center/cover no-repeat fixed;
+  background: var(--background-image) center/cover no-repeat fixed !important;
 }
 
 .peopleColumn-1wMU14 {
-  background: var(--background-image) center/cover no-repeat fixed;
+  background: var(--background-image) center/cover no-repeat fixed !important;
 }
 
 .scroller-hE2gWq, .thin-31rlnD, .scrollerBase-_bVAAt {
-  background: var(--background-image) center/cover no-repeat fixed;
+  background: var(--background-image) center/cover no-repeat fixed !important;
+} 
+
+.member-2gU6Ar, .member-48YF_l, .container-1oeRFJ, .clickable-28SzVr {
+  background: var(--background-image) center/cover no-repeat fixed !important; 
+}
+
+.title-31SJ6t, .container-ZMc96U, .themed-Hp1KC_ {
+  background: var(--background-image) center/cover no-repeat fixed !important; 
+}
+
+.theme-dark .container-ZMc96U .themed-Hp1KC_ {
+  background: var(--background-image) center/cover no-repeat fixed !important; 
+}
+
+.searchBar-3TnChZ {
+  background: var(--background-image) center/cover no-repeat fixed !important; 
+}
+
+.header-3OsQeK {
+  background: var(--background-image) center/cover no-repeat fixed !important; 
+}
+
+.container-2o3qEW {
+  background: var(--background-image) center/cover no-repeat fixed !important; 
 } */
 
 /* Channels */
@@ -225,6 +249,10 @@
 
 .panels-3wFtMD {
   background-color: var(--background-secondary) !important;
+}
+
+.panels-3wFtMD {
+  background: var(--background-image) center/cover no-repeat fixed;
 }
 
 /* No Rounding */
