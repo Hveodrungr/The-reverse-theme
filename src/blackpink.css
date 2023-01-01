@@ -101,6 +101,10 @@
 } */
 
 /* Channels */
+.total-1c5KCN {
+  color: var(--background-secondary);
+}
+
 .selected-2TbFuo,
 .modeSelected-3DmyhH {
   background-color: var(--background-modifier-selected) !important;
