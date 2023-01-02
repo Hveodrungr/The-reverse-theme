@@ -60,7 +60,7 @@
   --divider-color: var(--text-link) !important;
 }
 
-/* .scroller-WSmht3, .thin-31rlnD, .scrollerBase-_bVAAt, .fade-1R6FHN {
+.scroller-WSmht3, .thin-31rlnD, .scrollerBase-_bVAAt, .fade-1R6FHN {
   background: var(--background-image) center/cover no-repeat fixed !important;
 }
 
@@ -98,7 +98,11 @@
 
 .form-3gdLxP {
   background: var(--background-image) center/cover no-repeat fixed !important; 
-} */
+}
+
+.root-22AK9z{
+  background: var(--background-image) center/cover no-repeat fixed !important; 
+}
 
 /* Channels */
 .total-1c5KCN {
