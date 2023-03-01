@@ -7,7 +7,7 @@
 		"discordID": "124598335230312448",
 		"github": "Hveodrungr"
 	},
-	"version": "0.5.0",
+	"version": "0.7.0",
 	"updater": {
 		"type": "github",
 		"id": "Hveodrungr/the-reverse-theme"
