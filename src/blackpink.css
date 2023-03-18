@@ -51,6 +51,10 @@
   --divider-color: var(--text-link) !important;
 }
 
+.text-md-normal-2rFCH3 {
+  color: black !important;
+}
+
 .scroller-WSmht3, .thin-31rlnD, .scrollerBase-_bVAAt, .fade-1R6FHN, .peopleColumn-1wMU14, .scroller-hE2gWq, .thin-31rlnD, .scrollerBase-_bVAAt, .member-2gU6Ar, .member-48YF_l, .container-1oeRFJ, .clickable-28SzVr, .title-31SJ6t, .container-ZMc96U, .themed-Hp1KC_, .theme-dark .container-ZMc96U .themed-Hp1KC_, .searchBar-3TnChZ, .header-3OsQeK, .container-2o3qEW, .form-3gdLxP, .root-22AK9z, .scrollerInner-2PPAp2, .content-yjf30S, .member-48YF_l, .members-3WRCEx, .scroller-kQBbkU, .scroller-1ox3I2 {
   background: var(--background-image) center / cover no-repeat fixed !important;
 }
